@@ -1,6 +1,6 @@
 ## Welcome to Phamthanhlam page
 *Name: Pham Thanh Lam*
-<img align="right" alt="GIF" height="280px" src="https://scontent.fdad1-1.fna.fbcdn.net/v/t39.30808-6/241290323_908224633442705_6984285279927153623_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=f_GGfrHUO_0AX8VL2_V&_nc_ht=scontent.fdad1-1.fna&oh=00_AT-wqREonVaPS8L0SWGEuPBH-eC6U6VMn8tP66ED9Z3Zhg&oe=6212DAC5" />
+
 * MSSV: 21520055
 * Date of birth: 02/01/2003
 * Hometown: Quang Ngai
