@@ -1,5 +1,5 @@
 ## Welcome to Phamthanhlam page
-*Name: Pham Thanh Lam*
+* Name: Pham Thanh Lam*
 
 * MSSV: 21520055
 * Date of birth: 02/01/2003
